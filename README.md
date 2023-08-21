@@ -1,10 +1,6 @@
-
 <h1 align="center">
- <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/4b339d32-50d7-4e5d-b18c-6f29ff84a98c
-" />
+ <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/4b339d32-50d7-4e5d-b18c-6f29ff84a98c" />
 </h1>
-
-
 </h1>
 <h1 align="center">Hi 👋, I'm Takia Maliha</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
