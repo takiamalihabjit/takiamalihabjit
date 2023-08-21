@@ -18,8 +18,8 @@
 - 📫 How to reach me **takia.maliha@bjitacademy.com**
 
 - 📄 Know about my experiences
-  * Now I am working at BJIT Limited as a Trainee SQA Engineer.
-  * I worked at Daraz Bangladesh Limited as a MarketPlace Performance Analyst.
+  * I am working at BJIT Limited as a Trainee SQA Engineer (August 2023-present)
+  * MarketPlace Performance Analyst at Daraz Bangladesh Limited (August 2022-April 2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
