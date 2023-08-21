@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="![27361428](https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/60fb984f-ebb3-4d60-9c17-9bc4ef620896)
+ <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/60fb984f-ebb3-4d60-9c17-9bc4ef620896
 "/>
 </h1>
 <h1 align="center">Hi 👋, I'm Takia Maliha</h1>
