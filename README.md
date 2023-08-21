@@ -1,6 +1,7 @@
 
 <h1 align="center">
- <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/32ba0b78-db1e-4a47-9e5c-348e7cc229df" />
+ <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/4b339d32-50d7-4e5d-b18c-6f29ff84a98c
+" />
 </h1>
 
 
