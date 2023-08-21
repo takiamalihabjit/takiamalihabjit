@@ -1,4 +1,6 @@
-[![Social banner for takiamlihabjit](https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/e9bd0bb8-ed7c-4010-b2ba-f166df66e9ed)]
+<h1 align="center">
+ <img src="https://github.com/takiamalihabjit/takiamalihabjit/assets/141909070/e9bd0bb8-ed7c-4010-b2ba-f166df66e9ed" />
+</h1>
 <h1 align="center">Hi 👋, I'm Takia Maliha</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
