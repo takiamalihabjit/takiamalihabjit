@@ -36,3 +36,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takiamalihabjit&show_icons=true&locale=en" alt="takiamalihabjit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takiamalihabjit&" alt="takiamalihabjit" /></p>
+
+
+
+# Contact Information
+
+For any inquiries or support, please email us at **support@localdiningguide.com** or visit our website [http://www.localdiningguide.com](http://www.localdiningguide.com).
+
+## Follow us on social media:
+
+### Twitter:
+**@localdiningguide**
+
+### Facebook:
+**LocalDiningGuide**
+
+### Instagram:
+**@localdiningguide**
